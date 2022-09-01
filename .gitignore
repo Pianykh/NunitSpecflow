@@ -7,7 +7,6 @@ debug/
 release/
 bin/
 obj/
-packages/
 logs/
 ExtentReport
 **/allure-results
