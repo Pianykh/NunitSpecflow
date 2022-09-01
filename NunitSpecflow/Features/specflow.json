@@ -1,0 +1,21 @@
+{
+  "ide": {
+    "editor": {
+      "gherkinFormat": {
+        "indentDataTable": false,
+        "indentExamplesTable": true
+      }
+    }
+  },
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "NunitSpecflow"
+    }
+  ]
+}
